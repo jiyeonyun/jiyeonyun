@@ -17,7 +17,7 @@ Skills:
 
 - 🌱 I’m currently learning React, JavaScripy 
 - 📫 How to reach me: jiyeon5524@naver.com 
-
+- 🥳 Portfolio : 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jiyeonyun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dog-exception-65c.notion.site/Welcome-e3f887d993e6417991cec622db4e45f3)  
 
