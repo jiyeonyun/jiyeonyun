@@ -25,13 +25,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeonyun&show_icons=true)  
 
 
-- 🌱 I’m currently learning React, JavaScripy 
+- 🌱 I’m currently learning React, JavaScript,vue.js
 - 📫 How to reach me: jiyeon5524@naver.com 
-- 🥳 Portfolio : 
-- https://github.com/jiyeonyun/my_phone
-- https://github.com/jiyeonyun/Youtube_Project
-- https://github.com/jiyeonyun/mbti_card
-- https://github.com/jiyeonyun/habitTracker_renewal
-- https://github.com/jiyeonyun/ReactMovie
-- https://github.com/jiyeonyun/etc
-- https://github.com/jiyeonyun/carrot_game
+
